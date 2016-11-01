@@ -1,1 +1,1 @@
-Proviamo a modificare il file
+Proviamo a modificare il file da terminale
